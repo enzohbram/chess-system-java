@@ -1,11 +1,5 @@
 package boardgame;
 
-/** Topics:
- * Encapsulation
- * Constructors
- * ToString
- */
-
 public class Position {
 
 	private int row;

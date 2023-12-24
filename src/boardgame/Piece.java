@@ -1,9 +1,5 @@
 package boardgame;
 
-/** Topics:
- * Associations
- * Encapsulation / Access Modifiers
- */
 public class Piece {
 
 	protected Position position;
